@@ -2,6 +2,7 @@
 Page last updated: 10/26/2021.
 
 We are working on the how to use doumentation. Expected 11/10/2021.
+Adding and revising definition of classes in protege.
 
 This repository houses the security development ontology (SDO).
 Available Ontohub!
