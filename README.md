@@ -1,12 +1,12 @@
 # Security Development Ontology - SDO
-Page last updated: 10/26/2021.
+Page last updated: 11/10/2021. 
+Currently the most stable draft is posted. Testing more branches. Final version coming 11/24/2021.
 
-We are working on the how to use doumentation. Expected 11/10/2021.
 Adding and revising definition of classes in protege.
 
 This repository houses the security development ontology (SDO).
 Available Ontohub!
-Availability through Kbox on 11/5/2021.
+Availability through Kbox on 11/27/2021.
 
 The Secure Development Ontology (SDO) purpose is to assist with the elicitation of security requirements and design decisions. 
 The ontology defines 183 core entities and 32 object properties. 
