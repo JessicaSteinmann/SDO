@@ -1,6 +1,6 @@
 # Security Development Ontology - SDO
 Page last updated: 11/23/2021. 
-V.0.0.1
+V.1.0.0
 
 Adding and revising definition of classes in protege.
 
