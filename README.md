@@ -1,8 +1,6 @@
 # Security Development Ontology - SDO
-Page last updated: 11/23/2021. 
+Page last updated: 12/03/2021. 
 V.1.0.0
-
-Adding and revising definition of classes in protege.
 
 This repository houses the security development ontology (SDO).
 Available Ontohub!
