@@ -4,7 +4,7 @@ V.1.0.0
 
 This repository houses the security development ontology (SDO).
 Available Ontohub!
-Availability through Kbox on 12/15/2021.
+
 
 The Secure Development Ontology (SDO) purpose is to assist with the elicitation of security requirements and design decisions. 
 The ontology defines 183 core entities and 32 object properties. 
